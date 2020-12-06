@@ -18,3 +18,5 @@ with open("1weekdays.txt") as f:
 
 print([datetime.strptime(_, "%d/%m/%Y").strftime("%A") for _ in data.split("\n")].count("Wednesday"))
 ```
+## Flag
+DEVCHAMP[1133]
