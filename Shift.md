@@ -3,7 +3,7 @@
 ## Problème 
 Nous travaillons depuis plusieurs mois sur le hack d'une application Java. Nos équipes sont bloquées car elle n'arrivent pas à trouver le bon mot de passe... Pouvez-vous nous aider à trouver quel est le mot de passe attendu par ce programme ?  
 [Fichier attaché](files/1shift.java)
-## Resolution
+## Résolution
 Dans le code source :
 ```java
 import java.util.Scanner;
