@@ -38,3 +38,5 @@ Au niveau de la ligne 8, nous pouvons voir une comparaison de la chaîne de reto
 goal = "136 138 172 134 144 130 154 160 182 230 232 228 96 220 206 190 198 228 242 224 232 96 186"
 print("".join([chr((int(_) // 2)) for _ in goal.split(" ")]))
 ```
+## Flag
+DEVCHAMP[str0ng_crypt0]
