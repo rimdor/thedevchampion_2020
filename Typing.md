@@ -8,3 +8,5 @@ Nous avons intercepté une communication entre deux hackers recherchés, mais im
 C’est un code SMS multi-tap  
 On décode avec :
 [https://www.dcode.fr/code-multitap-abc](https://www.dcode.fr/code-multitap-abc) 
+##Flag
+DEVCHAMP[TENKEYSAREENOUGHDON]
