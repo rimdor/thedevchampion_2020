@@ -1,5 +1,5 @@
 # Typing
-## Crypto [125 pts]
+## Crypto [100 pts]
 ## Problème 
 Nous avons intercepté une communication entre deux hackers recherchés, mais impossible de déchiffrer ce qu'ils se sont dit... Mais je suis sûr que vous ferez mieux que nos équipes !  
 
