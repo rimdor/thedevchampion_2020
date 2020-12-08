@@ -9,7 +9,7 @@ Soumettez votre solution au format DEVCHAMP[x]
 ## Résolution
 Un challenge typique de rsa.
 On note de l'explication que `n=120701443617098609`, `C=37155663075427` et `e = 65537`
-Avec l'outil [http://factordb.com/](http://factordb.com/). Nous factorisons `n` puis calculons la clé privé `d`. Voici le script:
+Avec l'outil [http://factordb.com/](http://factordb.com/). Nous factorisons `n` pour avoir `p` et `q` puis calculons la clé privé `d`. Voici le script:
 
 ```python3
 
