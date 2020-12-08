@@ -47,4 +47,4 @@ done()
 
 ## Flag
 
-[flag](files/penbot.jpg)
+![flag](files/penbot.jpg)
