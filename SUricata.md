@@ -9,4 +9,4 @@ ctrl+f : syn flood attack pour voir les logs , et on obtient notre flag.
 
 ## Flag
 
-DEVCHAM P[Y0u_c4N_R3ad_7 H3_l0Gs]
+DEVCHAMP[Y0u c4N_R3ad_7 H3_l0Gs]
