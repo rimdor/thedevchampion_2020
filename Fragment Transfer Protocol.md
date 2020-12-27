@@ -5,10 +5,14 @@
 
 [Fichier attaché](files/capture.pcapng)
 ## Résolution
-Avec wireshark, le 46e paquet utilisant le protocol ftp-data et traite d'un certain flag.png, il fallait le voir de prêt. Clique droit;  Suivre; FTP stream  
+On analyse le fichier avec : https://apackets.com/upload > upload file > voir le rapport
+![](files/analyse_ftp_data.png)  
+Ensuite on analyse le fichier avec wireshark.
+On applique d'abord un filtre (ftp-data) sur le fichier.
+On inspecte le paquet No 46 qui récupère la copie d'un fichier flag.png, il fallait le voir de prêt. Clique droit;  Suivre; FTP stream  
 ![](files/stream.png)
 On voit le header du PNG,  
 ![](files/raw.png)  
-On change vers RAW, on enregistre sous un fichier png.  
+On change vers RAW, on enregistre sous le format png.  
 ## Flag
 ![](files/fragflag.png)
