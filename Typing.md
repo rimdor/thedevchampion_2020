@@ -36,7 +36,7 @@ table_abc = {"2":"A",
              "999":"Y",
              "9999":"Z",
              "0":" ",
-             #.[]_ de l'illustration de l'énoncé, on deduit la suite
+             #avec .[]_ de l'illustration de l'énoncé, on deduit la suite
              "1":".",
              "11":"[",
              "111":"]",
