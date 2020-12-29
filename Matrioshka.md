@@ -29,7 +29,7 @@ En analysant le code des fonctions, nous réalisons tout de suite que ![formula]
 Reste juste à trouver l’inverse de f2, f5, f4, f6 et f10.  
 Nous nous rendons aussi compte que ![formula](https://render.githubusercontent.com/render/math?math=f4) est l'inverse de ![formula](https://render.githubusercontent.com/render/math?math=f5) et reciproquement.
 
-La détermination de l'inverse de la fonction (https://render.githubusercontent.com/render/math?math=f10) s'avère la plus facile et donne:
+La détermination de l'inverse de la fonction ![formula](https://render.githubusercontent.com/render/math?math=f10) s'avère la plus facile et donne:
 ```python3
 def f10(s):
     return s[1:] + s[0]
