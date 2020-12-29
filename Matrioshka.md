@@ -21,12 +21,10 @@ Nous notons que le flag est composé de 30 caractères de sorte que ![formula](h
 
 Soit ![formula](https://render.githubusercontent.com/render/math?math=g=(f6%20\circ%20f6%20\circ%20f2%20\circ%20f1%20\circ%20f7%20\circ%20f10%20\circ%20f5%20\circ%20f5%20\circ%20f6%20\circ%20f7%20\circ%20f6%20\circ%20f8%20\circ%20f2%20\circ%20f9%20\circ%20f8%20\circ%20f6%20\circ%20f5%20\circ%20f6%20\circ%20f2%20\circ%20f6%20\circ%20f7%20\circ%20f3%20\circ%20f3%20\circ%20f5%20\circ%20f2%20\circ%20f2%20\circ%20f2%20\circ%20f8%20\circ%20f2%20\circ%20f1%20\circ%20f10%20\circ%20f4%20\circ%20f8%20\circ%20f5%20\circ%20f5%20\circ%20f8%20\circ%20f2%20\circ%20f9%20\circ%20f2%20\circ%20f5%20\circ%20f3%20\circ%20f7%20\circ%20f8%20\circ%20f3%20\circ%20f4%20\circ%20f5%20\circ%20f10%20\circ%20f4%20\circ%20f1%20\circ%20f9)) et  ![formula](https://render.githubusercontent.com/render/math?math=y=) `XHFS%~p8#j:&ih<jim~NYFj5i!oEX%`.
 Ainsi notre flag est la chaine de caractères telle que ![formula](https://render.githubusercontent.com/render/math?math=g(flag)=y) .  
-Il est alors question de trouver
+Il est alors question de déterminer ![formula](https://render.githubusercontent.com/render/math?math=g^{-1}) tel que ![formula](https://render.githubusercontent.com/render/math?math=g^{-1}(y)=flag).  
+![formula](https://render.githubusercontent.com/render/math?math=g^{-1}) est défini par ![formula](https://render.githubusercontent.com/render/math?math=f9^{-1}%20\circ%20f1^{-1}%20\circ%20f4^{-1}%20\circ%20f10^{-1}%20\circ%20f5^{-1}%20\circ%20f4^{-1}%20\circ%20f3^{-1}%20\circ%20f8^{-1}%20\circ%20f7^{-1}%20\circ%20f3^{-1}%20\circ%20f5^{-1}%20\circ%20f2^{-1}%20\circ%20f9^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f5^{-1}%20\circ%20f5^{-1}%20\circ%20f8^{-1}%20\circ%20f4^{-1}%20\circ%20f10^{-1}%20\circ%20f1^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f2^{-1}%20\circ%20f2^{-1}%20\circ%20f2^{-1}%20\circ%20f5^{-1}%20\circ%20f3^{-1}%20\circ%20f3^{-1}%20\circ%20f7^{-1}%20\circ%20f6^{-1}%20\circ%20f2^{-1}%20\circ%20f6^{-1}%20\circ%20f5^{-1}%20\circ%20f6^{-1}%20\circ%20f8^{-1}%20\circ%20f9^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f6^{-1}%20\circ%20f7^{-1}%20\circ%20f6^{-1}%20\circ%20f5^{-1}%20\circ%20f5^{-1}%20\circ%20f10^{-1}%20\circ%20f7^{-1}%20\circ%20f1^{-1}%20\circ%20f2^{-1}%20\circ%20f6^{-1}%20\circ%20f6^{-1})
 
-Nous avons 10 fonctions, qui composées entre 
-Pour les 10 fonctions, j’ai y = f(x), on veut trouver f^-1 tel que, f^-1(y) = x, pour f1 l’inverse est la fonction elle-même, de même pour f9, f8, f7 et f3.
 
-Reste juste à trouver l’inverse de f2, f5, f4, f6 et f10.
 
 ## Flag
 
