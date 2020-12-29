@@ -25,7 +25,7 @@ Il est alors question de déterminer ![formula](https://render.githubusercontent
 ![formula](https://render.githubusercontent.com/render/math?math=g^{-1}) est défini par ![formula](https://render.githubusercontent.com/render/math?math=f9^{-1}%20\circ%20f1^{-1}%20\circ%20f4^{-1}%20\circ%20f10^{-1}%20\circ%20f5^{-1}%20\circ%20f4^{-1}%20\circ%20f3^{-1}%20\circ%20f8^{-1}%20\circ%20f7^{-1}%20\circ%20f3^{-1}%20\circ%20f5^{-1}%20\circ%20f2^{-1}%20\circ%20f9^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f5^{-1}%20\circ%20f5^{-1}%20\circ%20f8^{-1}%20\circ%20f4^{-1}%20\circ%20f10^{-1}%20\circ%20f1^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f2^{-1}%20\circ%20f2^{-1}%20\circ%20f2^{-1}%20\circ%20f5^{-1}%20\circ%20f3^{-1}%20\circ%20f3^{-1}%20\circ%20f7^{-1}%20\circ%20f6^{-1}%20\circ%20f2^{-1}%20\circ%20f6^{-1}%20\circ%20f5^{-1}%20\circ%20f6^{-1}%20\circ%20f8^{-1}%20\circ%20f9^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f6^{-1}%20\circ%20f7^{-1}%20\circ%20f6^{-1}%20\circ%20f5^{-1}%20\circ%20f5^{-1}%20\circ%20f10^{-1}%20\circ%20f7^{-1}%20\circ%20f1^{-1}%20\circ%20f2^{-1}%20\circ%20f6^{-1}%20\circ%20f6^{-1})  
 
 Il nous revient de determiner l'inverse de chaque fonction.
-En lisant le code des fonctions, nous réalisons tout de suite que 
+En lisant le code des fonctions, nous réalisons tout de suite que ![formula](https://render.githubusercontent.com/render/math?math=f1)
 
 
 
