@@ -25,7 +25,11 @@ Il est alors question de déterminer ![formula](https://render.githubusercontent
 ![formula](https://render.githubusercontent.com/render/math?math=g^{-1}) est défini par ![formula](https://render.githubusercontent.com/render/math?math=f9^{-1}%20\circ%20f1^{-1}%20\circ%20f4^{-1}%20\circ%20f10^{-1}%20\circ%20f5^{-1}%20\circ%20f4^{-1}%20\circ%20f3^{-1}%20\circ%20f8^{-1}%20\circ%20f7^{-1}%20\circ%20f3^{-1}%20\circ%20f5^{-1}%20\circ%20f2^{-1}%20\circ%20f9^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f5^{-1}%20\circ%20f5^{-1}%20\circ%20f8^{-1}%20\circ%20f4^{-1}%20\circ%20f10^{-1}%20\circ%20f1^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f2^{-1}%20\circ%20f2^{-1}%20\circ%20f2^{-1}%20\circ%20f5^{-1}%20\circ%20f3^{-1}%20\circ%20f3^{-1}%20\circ%20f7^{-1}%20\circ%20f6^{-1}%20\circ%20f2^{-1}%20\circ%20f6^{-1}%20\circ%20f5^{-1}%20\circ%20f6^{-1}%20\circ%20f8^{-1}%20\circ%20f9^{-1}%20\circ%20f2^{-1}%20\circ%20f8^{-1}%20\circ%20f6^{-1}%20\circ%20f7^{-1}%20\circ%20f6^{-1}%20\circ%20f5^{-1}%20\circ%20f5^{-1}%20\circ%20f10^{-1}%20\circ%20f7^{-1}%20\circ%20f1^{-1}%20\circ%20f2^{-1}%20\circ%20f6^{-1}%20\circ%20f6^{-1})  
 
 Il nous revient de determiner l'inverse de chaque fonction.
-En analysant le code des fonctions, nous réalisons tout de suite que ![formula](https://render.githubusercontent.com/render/math?math=f1) est inverse la chaîne de qu'il reçoit. Ainsi  ![formula](https://render.githubusercontent.com/render/math?math=f1^{-1}=f1)
+En analysant le code des fonctions, nous réalisons tout de suite que ![formula](https://render.githubusercontent.com/render/math?math=f1) est inverse la chaîne de qu'il reçoit. Ainsi  ![formula](https://render.githubusercontent.com/render/math?math=f1^{-1}=f1). Une analyse pareille pour chacune des fonctions nous permet d'aboutir à la même conclusion pour ![formula](https://render.githubusercontent.com/render/math?math=f9,%20f8,%20f7%20et%20f3). 
+Reste juste à trouver l’inverse de f2, f5, f4, f6 et f10.  
+Nous nous rendons aussi compte que ![formula](https://render.githubusercontent.com/render/math?math=f4) est l'inverse de ![formula](https://render.githubusercontent.com/render/math?math=f5) et reciproquement.
+
+
 
 
 
